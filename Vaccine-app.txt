@@ -1,0 +1,3 @@
+Vaccine app merupakan aplikasi yang dapat digunakan untuk mengetahui informasi
+terkini terkait perkembangan kasus covid-19 serta informasi terkait vaksinasi
+Dalam vaccine app nantinya dapat di
